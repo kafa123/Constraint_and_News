@@ -12,12 +12,6 @@
         </shape>
     </item>
 
-    <!-- Shadow -->
-    <item android:right="1dp" android:left="1dp" android:top="1dp" android:bottom="1dp">
-        <shape android:shape="rectangle">
-            <solid android:color="#d3e6fe" /> <!-- Shadow color -->
-            <corners android:radius="8dp" /> <!-- Button corner radius -->
-        </shape>
-    </item>
+
 
 </layer-list>
